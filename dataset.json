@@ -1,0 +1,604 @@
+{
+  "Products": [
+    {
+      "product": "Dark Fantasy - Choco Fills Biscuits - Cookies",
+      "category": "Snacks & Branded Foods",
+      "market_price": 33,
+      "type": "Chips & Corn Snacks"
+    },
+    {
+      "product": "5 Star Oreo Chocolate Bar",
+      "category": "Snacks & Branded Foods",
+      "market_price": 35,
+      "type": "Chocolates"
+    },
+    {
+      "product": "I Love You Fruit N Nut Chocolate",
+      "category": "Snacks & Branded Foods",
+      "market_price": 100,
+      "type": "Chocolates"
+    },
+    {
+      "product": "Munch Chocolate Coated Crunchy Wafer - Share Pack",
+      "category": "Snacks & Branded Foods",
+      "market_price": 100,
+      "type": "Chocolates"
+    },
+    {
+      "product": "Perk - Chocolate, Home Treats, 175.5 g, 27 Units",
+      "category": "Snacks & Branded Foods",
+      "market_price": 198,
+      "type": "Chocolates"
+    },
+    {
+      "product": "Kisses - Almonds Chocolate",
+      "category": "Snacks & Branded Foods",
+      "market_price": 140,
+      "type": "Chocolates"
+    },
+    {
+      "product": "Dark Chocolate",
+      "category": "Snacks & Branded Foods",
+      "market_price": 25,
+      "type": "Chocolates"
+    },
+    {
+      "product": "Cuppa Noodles - Masala",
+      "category": "Snacks & Branded Foods",
+      "market_price": 45,
+      "type": "Cup Noodles"
+    },
+    {
+      "product": "Cuppa Noodles - Chilli Chow",
+      "category": "Snacks & Branded Foods",
+      "market_price": 45,
+      "type": "Cup Noodles"
+    },
+    {
+      "product": "Quik Mealz Chicken Delight Cup Noodles",
+      "category": "Snacks & Branded Foods",
+      "market_price": 50,
+      "type": "Cup Noodles"
+    },
+    {
+      "product": "Bourbon Delight",
+      "category": "Snacks & Branded Foods",
+      "market_price": 60,
+      "type": "Cream Biscuits & Wafers"
+    },
+    {
+      "product": "Mountain Dew",
+      "category": "Beverages",
+      "market_price": 40,
+      "type": "Cold Drinks"
+    },
+    {
+      "product": "Fruit Power - Orange",
+      "category": "Beverages",
+      "market_price": 220,
+      "type": "Juices"
+    },
+    {
+      "product": "Fruit Power Juice - Alphonso Mango",
+      "category": "Beverages",
+      "market_price": 120,
+      "type": "Juices"
+    },
+    {
+      "product": "Soft Drink - Original Taste",
+      "category": "Beverages",
+      "market_price": 85,
+      "type": "Cold Drinks"
+    },
+    {
+      "product": "Filter Coffee Decoction",
+      "category": "Beverages",
+      "market_price": 120,
+      "type": "Ground Coffee"
+    },
+    {
+      "product": "Instant Energy Health Drink - Regular",
+      "category": "Beverages",
+      "market_price": 115,
+      "type": "Glucose Powder, Tablets"
+    },
+    {
+      "product": "Juice - Apple Awe",
+      "category": "Beverages",
+      "market_price": 330,
+      "type": "Juices"
+    },
+    {
+      "product": "Chocolate Health Drink - Bournvita",
+      "category": "Beverages",
+      "market_price": 760,
+      "type": "Kids (5+Yrs)"
+    },
+    {
+      "product": "Fruit Drink - Orange",
+      "category": "Beverages",
+      "market_price": 109,
+      "type": "Juices"
+    },
+    {
+      "product": "Tea",
+      "category": "Beverages",
+      "market_price": 158,
+      "type": "Leaf & Dust Tea"
+    },
+    {
+      "product": "Tea Bags Assorted Selection - 15 Variety",
+      "category": "Beverages",
+      "market_price": 225,
+      "type": "Tea Bags"
+    },
+    {
+      "product": "Chocobakes Choc Filled Cookies",
+      "category": "Bakery, Cakes & Dairy",
+      "market_price": 120,
+      "type": "Bakery Biscuits, Cookies"
+    },
+    {
+      "product": "Bread - Fruit",
+      "category": "Bakery, Cakes & Dairy",
+      "market_price": 20,
+      "type": "Milk, White & Sandwich"
+    },
+    {
+      "product": "Kool - Koko",
+      "category": "Bakery, Cakes & Dairy",
+      "market_price": 120,
+      "type": "Flavoured, Soya Milk"
+    },
+    {
+      "product": "Bread - Pav",
+      "category": "Bakery, Cakes & Dairy",
+      "market_price": 30,
+      "type": "Buns, Pavs & Pizza Base"
+    },
+    {
+      "product": "Kesar Shrikhand",
+      "category": "Bakery, Cakes & Dairy",
+      "market_price": 115,
+      "type": "Yogurt & Shrikhand"
+    },
+    {
+      "product": "Bread - Healthy Slice",
+      "category": "Bakery, Cakes & Dairy",
+      "market_price": 45,
+      "type": "Milk, White & Sandwich"
+    },
+    {
+      "product": "Kool Milk Shake - Badam",
+      "category": "Bakery, Cakes & Dairy",
+      "market_price": 140,
+      "type": "Flavoured, Soya Milk"
+    },
+    {
+      "product": "Diced Cheese Blend",
+      "category": "Bakery, Cakes & Dairy",
+      "market_price": 455,
+      "type": "Cheese"
+    },
+    {
+      "product": "Four Cheese",
+      "category": "Bakery, Cakes & Dairy",
+      "market_price": 145,
+      "type": "Cheese"
+    },
+    {
+      "product": "Mild Cheddar Block",
+      "category": "Bakery, Cakes & Dairy",
+      "market_price": 149,
+      "type": "Cheese"
+    },
+    {
+      "product": "Bake Rusk Toast",
+      "category": "Bakery, Cakes & Dairy",
+      "market_price": 40,
+      "type": "Rusks"
+    },
+    {
+      "product": "Lite Milk Fat Spread",
+      "category": "Bakery, Cakes & Dairy",
+      "market_price": 40,
+      "type": "Butter & Margarine"
+    },
+    {
+      "product": "Lemon & Tea Tree Oil Soap",
+      "category": "Beauty & Hygiene",
+      "market_price": 360,
+      "type": "Bathing Bars & Soaps"
+    },
+    {
+      "product": "After Shave Splash - Arctic Ice",
+      "category": "Beauty & Hygiene",
+      "market_price": 469,
+      "type": "Shaving Care"
+    },
+    {
+      "product": "Battery Power Kids Toothbrush - Barbie",
+      "category": "Beauty & Hygiene",
+      "market_price": 499,
+      "type": "Electric Toothbrush"
+    },
+    {
+      "product": "Kids Motu Patlu Toothpaste - 2-5 Years, Bubble Fruit Flavour",
+      "category": "Beauty & Hygiene",
+      "market_price": 43,
+      "type": "Toothpaste"
+    },
+    {
+      "product": "Color Naturals Creme Riche Ultra Hair Color - Raspberry Red",
+      "category": "Beauty & Hygiene",
+      "market_price": 199,
+      "type": "Hair Color"
+    },
+    {
+      "product": "Pre Shave Foam - Classic Sensitive Skin",
+      "category": "Beauty & Hygiene",
+      "market_price": 225,
+      "type": "Shaving Care"
+    },
+    {
+      "product": "Guard 3 Cartridge",
+      "category": "Beauty & Hygiene",
+      "market_price": 175,
+      "type": "Shaving Care"
+    },
+    {
+      "product": "Skinguard Razor",
+      "category": "Beauty & Hygiene",
+      "market_price": 350,
+      "type": "Shaving Care"
+    },
+    {
+      "product": "Series Shaving Gel - Pure & Sensitive",
+      "category": "Beauty & Hygiene",
+      "market_price": 329,
+      "type": "Shaving Care"
+    },
+    {
+      "product": "Shaving Foam Lemon",
+      "category": "Beauty & Hygiene",
+      "market_price": 200,
+      "type": "Shaving Care"
+    },
+    {
+      "product": "After Shave Lotion - Pulse",
+      "category": "Beauty & Hygiene",
+      "market_price": 130,
+      "type": "Shaving Care"
+    },
+    {
+      "product": "Toothpaste - Gum Care, Expert Protection",
+      "category": "Beauty & Hygiene",
+      "market_price": 98,
+      "type": "Toothpaste"
+    },
+    {
+      "product": "Active Salt Toothpaste Saver Pack 300g + Sensitive Soft Bristles Toothbrush 4pcs",
+      "category": "Beauty & Hygiene",
+      "market_price": 258,
+      "type": "Toothpaste"
+    },
+    {
+      "product": "Toothpaste - Complete Care",
+      "category": "Beauty & Hygiene",
+      "market_price": 80,
+      "type": "Toothpaste"
+    },
+    {
+      "product": "Kids Barbie Toothbrush - Extra Soft With Tongue Cleaner",
+      "category": "Beauty & Hygiene",
+      "market_price": 79,
+      "type": "Toothbrush"
+    },
+    {
+      "product": "Tooth Brush Pro Health - Gum Care (Soft) Buy 2 & Get 2 Free",
+      "category": "Beauty & Hygiene",
+      "market_price": 320,
+      "type": "Toothbrush"
+    },
+    {
+      "product": "Extra Care Toothbrush - Pink, Soft",
+      "category": "Beauty & Hygiene",
+      "market_price": 40,
+      "type": "Toothbrush"
+    },
+    {
+      "product": "Eau De Parfum - Hydra Energy, For Men",
+      "category": "Beauty & Hygiene",
+      "market_price": 399,
+      "type": "Perfume"
+    },
+    {
+      "product": "Go Icy Perfume Spray",
+      "category": "Fragrances & Deos",
+      "market_price": 49,
+      "type": "Perfume"
+    },
+    {
+      "product": "Premium Perfume - Magnifico",
+      "category": "Fragrances & Deos",
+      "market_price": 240,
+      "type": "Perfume"
+    },
+    {
+      "product": "One Touch Air Purifier Freshener - Floral Bouquet Refill",
+      "category": "Cleaning & Household",
+      "market_price": 77,
+      "type": "Air Freshener"
+    },
+    {
+      "product": "Room Freshener - Soul Blossom Jasmine",
+      "category": "Cleaning & Household",
+      "market_price": 149,
+      "type": "Air Freshener"
+    },
+    {
+      "product": "Smile JoyÂ Bathroom & Car Freshener - Twin Pack",
+      "category": "Cleaning & Household",
+      "market_price": 50,
+      "type": "Air Freshener"
+    },
+    {
+      "product": "Zipper Bathroom Air Freshener - Joyful Lavender",
+      "category": "Cleaning & Household",
+      "market_price": 55,
+      "type": "Air Freshener"
+    },
+    {
+      "product": "Long Point Sharpener",
+      "category": "Cleaning & Household",
+      "market_price": 100,
+      "type": "Erasers & Sharpeners"
+    },
+    {
+      "product": "621 Sharpeners without a Break",
+      "category": "Cleaning & Household",
+      "market_price": 60,
+      "type": "Erasers & Sharpeners"
+    },
+    {
+      "product": "Exam Standard Scale",
+      "category": "Cleaning & Household",
+      "market_price": 5,
+      "type": "Exam Pads & Pencil Box"
+    },
+    {
+      "product": "Disney Moana Kids Pencil Box With Sharpener",
+      "category": "Cleaning & Household",
+      "market_price": 249,
+      "type": "Exam Pads & Pencil Box"
+    },
+    {
+      "product": "Printed Fabric Pencil Pouch - Yellow & Black, BB1265DYLW",
+      "category": "Cleaning & Household",
+      "market_price": 199,
+      "type": "Exam Pads & Pencil Box"
+    },
+    {
+      "product": "Scale - Plastic",
+      "category": "Cleaning & Household",
+      "market_price": 200,
+      "type": "Exam Pads & Pencil Box"
+    },
+    {
+      "product": "Marvel Spider Man Metal Pencil Pouch With Zip Closure - HMDMPC 00807-SPM",
+      "category": "Cleaning & Household",
+      "market_price": 149,
+      "type": "Exam Pads & Pencil Box"
+    },
+    {
+      "product": "Mesh Desk Organiser",
+      "category": "Cleaning & Household",
+      "market_price": 109,
+      "type": "Exam Pads & Pencil Box"
+    },
+    {
+      "product": "Marvel Avengers Metal Kids Pencil Pouch Bag With Zip Closure",
+      "category": "Cleaning & Household",
+      "market_price": 149,
+      "type": "Exam Pads & Pencil Box"
+    },
+    {
+      "product": "Chota Bheem Zip Pouch - 2 Compartment With Coloured Liner, Assorted Colour",
+      "category": "Cleaning & Household",
+      "market_price": 179,
+      "type": "Exam Pads & Pencil Box"
+    },
+    {
+      "product": "Sauce - Chipotle Adobado",
+      "category": "Gourmet & World Food",
+      "market_price": 299,
+      "type": "Mustard & Cheese Sauces"
+    },
+    {
+      "product": "Sauce - Pesto, Sundried, Tomato",
+      "category": "Gourmet & World Food",
+      "market_price": 290,
+      "type": "Mustard & Cheese Sauces"
+    },
+    {
+      "product": "Sauce - Classic Pizza",
+      "category": "Gourmet & World Food",
+      "market_price": 245,
+      "type": "Mustard & Cheese Sauces"
+    },
+    {
+      "product": "Pasta - Whole Grain",
+      "category": "Gourmet & World Food",
+      "market_price": 365,
+      "type": "Mustard & Cheese Sauces"
+    },
+    {
+      "product": "Olive Oil - Tomato And Porcini Mushroom Pasta Sauce, With Extra Virgin",
+      "category": "Gourmet & World Food",
+      "market_price": 395,
+      "type": "Mustard & Cheese Sauces"
+    },
+    {
+      "product": "Pasta Sauce - Parmesan & Romano",
+      "category": "Gourmet & World Food",
+      "market_price": 395,
+      "type": "Mustard & Cheese Sauces"
+    },
+    {
+      "product": "Bruschetta Tomato Topping For Grilled Bread",
+      "category": "Gourmet & World Food",
+      "market_price": 395,
+      "type": "Mustard & Cheese Sauces"
+    },
+    {
+      "product": "Sauteed Onion & Garlic Pasta Sauce",
+      "category": "Gourmet & World Food",
+      "market_price": 450,
+      "type": "Mustard & Cheese Sauces"
+    },
+    {
+      "product": "Double Cheddar Pasta Sauce",
+      "category": "Gourmet & World Food",
+      "market_price": 450,
+      "type": "Mustard & Cheese Sauces"
+    },
+    {
+      "product": "Sauce - Traditional Pasta",
+      "category": "Gourmet & World Food",
+      "market_price": 490,
+      "type": "Mustard & Cheese Sauces"
+    },
+    {
+      "product": "Steak Sauce - Classic",
+      "category": "Gourmet & World Food",
+      "market_price": 230,
+      "type": "Mustard & Cheese Sauces"
+    },
+    {
+      "product": "Kesar Badam Milk Powder",
+      "category": "Gourmet & World Food",
+      "market_price": 245,
+      "type": "Milk & Soya Drinks"
+    },
+    {
+      "product": "Enriched Soy Beverage - Sweetened Regular Malt",
+      "category": "Gourmet & World Food",
+      "market_price": 170,
+      "type": "Milk & Soya Drinks"
+    },
+    {
+      "product": "Cream - Original",
+      "category": "Gourmet & World Food",
+      "market_price": 350,
+      "type": "Milk & Soya Drinks"
+    },
+    {
+      "product": "Coffee Creamer - Coffee-Mate, The Original",
+      "category": "Gourmet & World Food",
+      "market_price": 351,
+      "type": "Milk & Soya Drinks"
+    },
+    {
+      "product": "Soy Milk - Chocolate, NON GMO, Imported",
+      "category": "Gourmet & World Food",
+      "market_price": 295,
+      "type": "Milk & Soya Drinks"
+    },
+    {
+      "product": "Flavour Drink - Nesquik, Banana",
+      "category": "Gourmet & World Food",
+      "market_price": 550,
+      "type": "Milk & Soya Drinks"
+    },
+    {
+      "product": "Drinking Chocolate - Original",
+      "category": "Gourmet & World Food",
+      "market_price": 550,
+      "type": "Milk & Soya Drinks"
+    },
+    {
+      "product": "Greek Yogurt Smoothie - Alphonso Mango",
+      "category": "Gourmet & World Food",
+      "market_price": 70,
+      "type": "Milk & Soya Drinks"
+    },
+    {
+      "product": "Almond Milk - Vanilla, NON GMO, Imported",
+      "category": "Gourmet & World Food",
+      "market_price": 595,
+      "type": "Milk & Soya Drinks"
+    },
+    {
+      "product": "Sweet Corn Kernels - Chipotle",
+      "category": "Fruits & Vegetables",
+      "market_price": 55,
+      "type": "Cut & Peeled Veggies"
+    },
+    {
+      "product": "Sapota - Organically Grown",
+      "category": "Fruits & Vegetables",
+      "market_price": 43.75,
+      "type": "Organic Fruits"
+    },
+    {
+      "product": "Cabbage - Red",
+      "category": "Fruits & Vegetables",
+      "market_price": 28.75,
+      "type": "Cabbage & Cauliflower"
+    },
+    {
+      "product": "Banana - Red",
+      "category": "Fruits & Vegetables",
+      "market_price": 48.75,
+      "type": "Banana, Sapota & Papaya"
+    },
+    {
+      "product": "ChilliÂ - Bajji, Mild",
+      "category": "Fruits & Vegetables",
+      "market_price": 17.5,
+      "type": "Lemon, Ginger & Garlic"
+    },
+    {
+      "product": "Apple - Green, Premium",
+      "category": "Fruits & Vegetables",
+      "market_price": 181.25,
+      "type": "Apples & Pomegranate"
+    },
+    {
+      "product": "Onion - Organically Grown",
+      "category": "Fruits & Vegetables",
+      "market_price": 43.75,
+      "type": "Organic Vegetables"
+    },
+    {
+      "product": "Lemon Grass",
+      "category": "Fruits & Vegetables",
+      "market_price": 12.5,
+      "type": "Indian & Exotic Herbs"
+    },
+    {
+      "product": "Broccoli",
+      "category": "Fruits & Vegetables",
+      "market_price": 57.5,
+      "type": "Exotic Vegetables"
+    },
+    {
+      "product": "Yellow Pumpkin - Avial Cut",
+      "category": "Fruits & Vegetables",
+      "market_price": 31.25,
+      "type": "Cut & Peeled Veggies"
+    },
+    {
+      "product": "Tamarind - Sweet",
+      "category": "Fruits & Vegetables",
+      "market_price": 123.75,
+      "type": "Exotic Fruits"
+    },
+    {
+      "product": "Garlic Oil - Vegetarian Capsule 500 mg",
+      "category": "Beauty & Hygiene",
+      "market_price": 220,
+      "type": "Hair Oil & Serum"
+    }
+  ]
+}
