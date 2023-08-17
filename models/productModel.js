@@ -19,17 +19,18 @@ const productSchema = mongoose.Schema({
     type: String,
     required: [true, "Please Enter Product Type"],
   },
-  offer:{
-    discount : {
+  offer: {
+    discount: {
       type: Number,
-    }, 
+    },
     quantity: {
       type: Number,
     },
-    code : {
+    code: {
       type: String,
     },
-  }
+  },
 });
+const Product = mongoose.model("Product", productSchema);
 
-module.exports = mongoose.model("Product", productSchema);
+module.exports = Product;
