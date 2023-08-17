@@ -1,10 +1,13 @@
 const express = require('express');
 const dotenv = require('dotenv');
 const errorMiddleware = require('./middleware/error.js');
+const cors = require('cors');
 
 const app = express();
 
 app.use(express.json()); // This includes bodyParser.json()
+
+app.use(cors());            // to allow react app to make call
 
 app.use(express.urlencoded({ extended: true }));
 

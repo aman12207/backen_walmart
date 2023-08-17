@@ -5,7 +5,8 @@ const bills = require('../bills.json');
 const Bill = require('../models/billModel');
 
 exports.showProductsByCategory = (async(req,res)=>{
-  const products = await Product.find({category: req.body.category});
+  const {category} = req.params;
+  const products = await Product.find({category});
   res.status(201).json({
     success: true,
     products,
